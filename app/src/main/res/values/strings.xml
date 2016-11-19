@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Parand</string>
+    <string name="Click_Me">Parand</string>
+    <string name="action_settings">Settings</string>
+    <string name="parandco">Hello World! Android Training Parand co</string>
+    <string name="parandtext">Android is Mobail Oprating System curently development by Google</string>
+
+
+    <string name="Parand">Parand</string>
+    <string name="register_here">Register Here</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="email">Email:</string>
+    <string name="register">Register</string>
+    <string name="button">Change To Assets</string>
+    <string name="changeimage">Change To Resource</string>
+</resources>

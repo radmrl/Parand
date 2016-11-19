@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Settings"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_display_resource"
+        android:orderInCategory="101"
+        android:title="Assets"
+        android:onClick="actionResourceclickHndler"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_display_assets"
+        android:orderInCategory="102"
+        android:title="Resource"
+        android:onClick="actionAssetsclickHndler"
+        app:showAsAction="ifRoom"
+        />
+</menu>
